@@ -31,11 +31,11 @@ Program
 import numpy as np
 import matplotlib.pyplot as plt
 
-Am = 6
-fm = 504
-Ac = 12
-fc = 5040
-fs = 50400
+Am = 4.9
+fm = 394
+Ac = 9.8
+fc = 3940
+fs = 39400
 
 t = np.arange(0, 0.01, 1/fs)
 
